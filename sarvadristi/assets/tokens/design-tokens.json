@@ -1,0 +1,91 @@
+{
+ "name": "Sarvadristi design tokens",
+ "source": "Extracted from the shipped app CSS (v26)",
+ "color": {
+  "light": {
+   "bg": "#F4F0FA",
+   "solid": "#ECE5F7",
+   "ink": "#1D1634",
+   "muted": "#575070",
+   "accent": "#4B33B8",
+   "onAccent": "#FFFFFF",
+   "line": "rgba(54,34,120,.20)",
+   "edge": "rgba(75,51,184,.16)",
+   "glass": "rgba(255,255,255,.78)",
+   "surface": "rgba(255,255,255,.72)",
+   "surface2": "rgba(54,34,120,.07)",
+   "good": "#1E7A4F",
+   "warn": "#8A5A00",
+   "bad": "#A12A2A"
+  },
+  "dark": {
+   "bg": "#120E26",
+   "solid": "#1C1640",
+   "ink": "#F5F2FF",
+   "muted": "#BDB6D8",
+   "accent": "#F2B84B",
+   "onAccent": "#1A1230",
+   "line": "rgba(190,175,255,.22)",
+   "edge": "rgba(190,175,255,.22)",
+   "glass": "rgba(34,26,74,.74)",
+   "surface": "rgba(255,255,255,.07)",
+   "surface2": "rgba(255,255,255,.10)",
+   "good": "#7ED8A6",
+   "warn": "#F2B84B",
+   "bad": "#FF8E8E"
+  },
+  "sleeves": {
+   "vedic": {
+    "front": "#16110D",
+    "back": "#0A111D",
+    "card": "#201B15",
+    "accent": "#F2B84B"
+   },
+   "western": {
+    "front": "#0A111D",
+    "back": "#16110D",
+    "card": "#141D2C",
+    "accent": "#8EC5FF"
+   },
+   "note": "Flat obsidian cards. Inside a card the interface uses a light-on-dark palette."
+  },
+  "brand": {
+   "logoBrown": "#3F2311",
+   "logoCream": "#FDF6EE",
+   "logoViolet": "#4B33B8",
+   "glowGold": "#F2B84B",
+   "glowViolet": "#8A6CF0"
+  }
+ },
+ "typography": {
+  "display": "Newsreader (serif), fallback Noto Serif Devanagari, Georgia",
+  "ui": "Outfit (geometric sans), fallback Noto Sans Devanagari, system-ui",
+  "weights": {
+   "display": "400-700, headings 500",
+   "ui": "300-700, body 400, labels 500-600"
+  },
+  "numerals": "Newsreader for large numbers and scores"
+ },
+ "radius": {
+  "card": "28-30px",
+  "pill": "999px",
+  "sleeveBody": "40px (56px with corner-shape: squircle); stacked layers show 11px and 21px of the card behind",
+  "tab": "24px top corners (30px squircle)",
+  "tile": "32px",
+  "hero": "none, blended into page"
+ },
+ "layout": {
+  "breakpointMobileMax": "700px",
+  "mobilePadding": "16px",
+  "contentMaxWidthPersonalHome": "760px",
+  "profileButton": "44x44px, uniform"
+ },
+ "motion": {
+  "brandGlow": "3.6s ease-in-out infinite",
+  "planetBands": "14s linear infinite",
+  "ringTilt": "6s ease-in-out infinite alternate",
+  "needleSweep": "1.4s cubic-bezier(.2,1.1,.3,1)",
+  "twinkle": "3.8s ease-in-out infinite alternate",
+  "reducedMotion": "all decorative animation is disabled"
+ }
+}

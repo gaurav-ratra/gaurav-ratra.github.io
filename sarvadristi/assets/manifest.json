@@ -1,0 +1,1121 @@
+{
+ "product": "Sarvadristi",
+ "count": 223,
+ "files": [
+  {
+   "path": "assets/backgrounds/star-field-small.svg",
+   "size_kb": 15.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/backgrounds/star-field-twinkle.svg",
+   "size_kb": 6.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/hero/banner-constellation-hands.png",
+   "size_kb": 264.3,
+   "dimensions": "640x443"
+  },
+  {
+   "path": "assets/hero/banner-galaxy-threads.png",
+   "size_kb": 327.9,
+   "dimensions": "564x564"
+  },
+  {
+   "path": "assets/hero/hero-hands-sun-original.png",
+   "size_kb": 1109.0,
+   "dimensions": "1000x1000"
+  },
+  {
+   "path": "assets/hero/hero-hands-sun-transparent.webp",
+   "size_kb": 108.5,
+   "dimensions": "780x780"
+  },
+  {
+   "path": "assets/icons/icons-sprite.svg",
+   "size_kb": 235.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/icons.json",
+   "size_kb": 9.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/preview.html",
+   "size_kb": 239.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/000-home.svg",
+   "size_kb": 1.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/001-sparkle.svg",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/002-kundali-lattice.svg",
+   "size_kb": 3.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/003-sunrise.svg",
+   "size_kb": 3.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/004-crystal-ball.svg",
+   "size_kb": 2.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/005-compass-nesw.svg",
+   "size_kb": 6.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/006-tarot-cards.svg",
+   "size_kb": 5.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/007-mortar-pestle.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/008-calendar-om.svg",
+   "size_kb": 2.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/009-calendar-clock.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/010-om.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/011-temple-glyph.svg",
+   "size_kb": 3.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/012-gem.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/013-mind-bloom.svg",
+   "size_kb": 4.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/014-serpent.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/015-saturn-ring.svg",
+   "size_kb": 3.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/016-people.svg",
+   "size_kb": 2.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/017-mars-male.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/018-heart.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/019-orbit.svg",
+   "size_kb": 2.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/020-hourglass.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/021-saturn-ring-alt.svg",
+   "size_kb": 3.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/022-sparkles.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/023-sprout-bowl.svg",
+   "size_kb": 2.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/024-diya.svg",
+   "size_kb": 2.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/025-document.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/026-open-book.svg",
+   "size_kb": 1.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/027-headset.svg",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/028-chat-bubbles.svg",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/029-aries.svg",
+   "size_kb": 1.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/030-taurus.svg",
+   "size_kb": 1.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/031-gemini.svg",
+   "size_kb": 1.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/032-cancer.svg",
+   "size_kb": 2.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/033-leo.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/034-virgo.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/035-libra.svg",
+   "size_kb": 1.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/036-scorpio.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/037-sagittarius.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/038-capricorn.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/039-aquarius.svg",
+   "size_kb": 2.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/040-pisces.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/041-sun.svg",
+   "size_kb": 3.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/042-moon.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/043-mercury.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/044-venus.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/045-mars.svg",
+   "size_kb": 1.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/046-jupiter.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/047-saturn.svg",
+   "size_kb": 1.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/048-uranus.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/049-neptune.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/050-pluto.svg",
+   "size_kb": 1.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/051-rahu.svg",
+   "size_kb": 1.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/052-ketu.svg",
+   "size_kb": 1.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/053-eclipse.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/054-constellation.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/055-shooting-star.svg",
+   "size_kb": 3.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/056-galaxy.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/057-orbit-dots.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/058-star-four.svg",
+   "size_kb": 2.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/059-moon-star.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/060-search.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/061-sliders.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/062-sort-arrows.svg",
+   "size_kb": 1.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/063-grid-four.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/064-compass.svg",
+   "size_kb": 2.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/065-trend-up.svg",
+   "size_kb": 0.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/066-bookmark.svg",
+   "size_kb": 1.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/067-history.svg",
+   "size_kb": 1.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/068-download.svg",
+   "size_kb": 1.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/069-share.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/070-bell.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/071-gear.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/072-user.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/073-pencil.svg",
+   "size_kb": 0.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/074-shield-check.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/075-crown.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/076-signal-bars.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/077-cube.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/078-wallet.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/079-layers.svg",
+   "size_kb": 4.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/080-devices.svg",
+   "size_kb": 1.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/081-help-circle.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/082-logout.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/083-image.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/084-play.svg",
+   "size_kb": 1.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/085-waveform.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/086-note.svg",
+   "size_kb": 1.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/087-link.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/088-loading.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/089-check-circle.svg",
+   "size_kb": 2.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/090-x-circle.svg",
+   "size_kb": 2.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/091-warning.svg",
+   "size_kb": 2.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/092-info.svg",
+   "size_kb": 2.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/093-inbox.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/094-wifi-off.svg",
+   "size_kb": 2.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/095-circle.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/096-check-filled.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/097-square.svg",
+   "size_kb": 0.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/098-check-square.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/099-toggle-off.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/100-toggle-on.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/101-plus.svg",
+   "size_kb": 0.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/102-minus.svg",
+   "size_kb": 0.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/103-trash.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/104-copy.svg",
+   "size_kb": 1.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/105-refresh.svg",
+   "size_kb": 1.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/106-refresh-alt.svg",
+   "size_kb": 1.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/107-upload.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/108-download-alt.svg",
+   "size_kb": 1.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/109-calendar-plus.svg",
+   "size_kb": 2.1,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/110-star.svg",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/111-star-filled.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/112-signal-bars-alt.svg",
+   "size_kb": 1.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/113-pie.svg",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/114-calendar.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/115-list.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/116-grid-four-alt.svg",
+   "size_kb": 2.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/117-more.svg",
+   "size_kb": 0.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/icons/svg/118-filter.svg",
+   "size_kb": 1.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/illustrations/source/astrology-wheel.png",
+   "size_kb": 2449.7,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/diya-ritual.png",
+   "size_kb": 1129.6,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/hands-orb-manifest.png",
+   "size_kb": 1347.5,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/herb-bowl-remedies.png",
+   "size_kb": 1387.6,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/kundali-lotus.png",
+   "size_kb": 2429.0,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/numerology-wheel.png",
+   "size_kb": 2054.2,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/phone-number.png",
+   "size_kb": 1633.1,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/sun-moon.png",
+   "size_kb": 1314.3,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/tarot-cards.png",
+   "size_kb": 1746.7,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/source/vastu-house.png",
+   "size_kb": 2010.6,
+   "dimensions": "1254x1254"
+  },
+  {
+   "path": "assets/illustrations/web/astrology-wheel.webp",
+   "size_kb": 44.8,
+   "dimensions": "414x420"
+  },
+  {
+   "path": "assets/illustrations/web/diya-ritual.webp",
+   "size_kb": 30.9,
+   "dimensions": "416x419"
+  },
+  {
+   "path": "assets/illustrations/web/hands-orb-manifest.webp",
+   "size_kb": 30.9,
+   "dimensions": "411x420"
+  },
+  {
+   "path": "assets/illustrations/web/herb-bowl-remedies.webp",
+   "size_kb": 43.1,
+   "dimensions": "419x420"
+  },
+  {
+   "path": "assets/illustrations/web/kundali-lotus.webp",
+   "size_kb": 49.9,
+   "dimensions": "420x420"
+  },
+  {
+   "path": "assets/illustrations/web/numerology-wheel.webp",
+   "size_kb": 38.2,
+   "dimensions": "419x420"
+  },
+  {
+   "path": "assets/illustrations/web/phone-number.webp",
+   "size_kb": 46.5,
+   "dimensions": "420x420"
+  },
+  {
+   "path": "assets/illustrations/web/sun-moon.webp",
+   "size_kb": 35.5,
+   "dimensions": "420x415"
+  },
+  {
+   "path": "assets/illustrations/web/tarot-cards.webp",
+   "size_kb": 30.7,
+   "dimensions": "420x409"
+  },
+  {
+   "path": "assets/illustrations/web/vastu-house.webp",
+   "size_kb": 42.0,
+   "dimensions": "419x420"
+  },
+  {
+   "path": "assets/logo/png/app-icon-dark.png",
+   "size_kb": 431.2,
+   "dimensions": "1024x868"
+  },
+  {
+   "path": "assets/logo/png/logo-horizontal-brown.png",
+   "size_kb": 45.0,
+   "dimensions": "1600x434"
+  },
+  {
+   "path": "assets/logo/png/logo-horizontal-cream.png",
+   "size_kb": 42.2,
+   "dimensions": "1600x434"
+  },
+  {
+   "path": "assets/logo/png/logo-horizontal-violet.png",
+   "size_kb": 45.2,
+   "dimensions": "1600x434"
+  },
+  {
+   "path": "assets/logo/png/logo-mark-brown.png",
+   "size_kb": 47.9,
+   "dimensions": "1024x784"
+  },
+  {
+   "path": "assets/logo/png/logo-mark-cream.png",
+   "size_kb": 45.0,
+   "dimensions": "1024x784"
+  },
+  {
+   "path": "assets/logo/png/logo-mark-violet.png",
+   "size_kb": 47.8,
+   "dimensions": "1024x784"
+  },
+  {
+   "path": "assets/logo/png/logo-stacked-brown.png",
+   "size_kb": 68.2,
+   "dimensions": "1200x958"
+  },
+  {
+   "path": "assets/logo/png/logo-stacked-cream.png",
+   "size_kb": 63.9,
+   "dimensions": "1200x958"
+  },
+  {
+   "path": "assets/logo/png/logo-stacked-violet.png",
+   "size_kb": 68.6,
+   "dimensions": "1200x958"
+  },
+  {
+   "path": "assets/logo/png/logo-wordmark-brown.png",
+   "size_kb": 28.6,
+   "dimensions": "1600x149"
+  },
+  {
+   "path": "assets/logo/png/logo-wordmark-cream.png",
+   "size_kb": 26.5,
+   "dimensions": "1600x149"
+  },
+  {
+   "path": "assets/logo/png/logo-wordmark-violet.png",
+   "size_kb": 28.8,
+   "dimensions": "1600x149"
+  },
+  {
+   "path": "assets/logo/svg/app-icon-dark.svg",
+   "size_kb": 16.0,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/favicon.svg",
+   "size_kb": 15.9,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-horizontal-brown.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-horizontal-cream.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-horizontal-gold.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-horizontal-violet.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-horizontal.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-mark-brown.svg",
+   "size_kb": 15.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-mark-cream.svg",
+   "size_kb": 15.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-mark-gold.svg",
+   "size_kb": 15.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-mark-violet.svg",
+   "size_kb": 15.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-mark.svg",
+   "size_kb": 15.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-stacked-brown.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-stacked-cream.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-stacked-gold.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-stacked-violet.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-stacked.svg",
+   "size_kb": 25.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-wordmark-brown.svg",
+   "size_kb": 9.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-wordmark-cream.svg",
+   "size_kb": 9.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-wordmark-gold.svg",
+   "size_kb": 9.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-wordmark-violet.svg",
+   "size_kb": 9.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/logo/svg/logo-wordmark.svg",
+   "size_kb": 9.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/01-sun.svg",
+   "size_kb": 6.3,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/02-moon.svg",
+   "size_kb": 2.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/03-mars.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/04-mercury.svg",
+   "size_kb": 2.2,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/05-jupiter.svg",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/06-venus.svg",
+   "size_kb": 2.5,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/07-saturn.svg",
+   "size_kb": 2.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/08-rahu.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/09-ketu.svg",
+   "size_kb": 2.8,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/planets/planet-palettes.json",
+   "size_kb": 1.6,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/reference/brand-logo-original.png",
+   "size_kb": 1258.0,
+   "dimensions": "1536x1024"
+  },
+  {
+   "path": "assets/reference/planet-style-reference-sheet.png",
+   "size_kb": 1056.4,
+   "dimensions": "1200x1200"
+  },
+  {
+   "path": "assets/tarot/00-the-fool.jpg",
+   "size_kb": 543.5,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/01-the-magician.jpg",
+   "size_kb": 652.6,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/02-the-high-priestess.jpg",
+   "size_kb": 578.7,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/03-the-empress.jpg",
+   "size_kb": 673.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/04-the-emperor.jpg",
+   "size_kb": 443.6,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/05-the-hierophant.jpg",
+   "size_kb": 439.5,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/06-the-lovers.jpg",
+   "size_kb": 467.1,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/07-the-chariot.jpg",
+   "size_kb": 471.3,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/08-strength.jpg",
+   "size_kb": 467.7,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/09-the-hermit.jpg",
+   "size_kb": 600.6,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/10-wheel-of-fortune.jpg",
+   "size_kb": 501.4,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/11-justice.jpg",
+   "size_kb": 465.8,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/12-the-hanged-man.jpg",
+   "size_kb": 463.5,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/13-death.jpg",
+   "size_kb": 619.5,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/14-temperance.jpg",
+   "size_kb": 535.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/15-the-devil.jpg",
+   "size_kb": 471.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/16-the-tower.jpg",
+   "size_kb": 485.6,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/17-the-star.jpg",
+   "size_kb": 500.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/18-the-moon.jpg",
+   "size_kb": 500.9,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/19-the-sun.jpg",
+   "size_kb": 535.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/20-judgement.jpg",
+   "size_kb": 541.2,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/21-the-world.jpg",
+   "size_kb": 566.1,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/README.txt",
+   "size_kb": 0.7,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/tarot/card-back.png",
+   "size_kb": 2879.0,
+   "dimensions": "1024x1536"
+  },
+  {
+   "path": "assets/tarot/hands-deck.png",
+   "size_kb": 1876.1,
+   "dimensions": "1199x1312"
+  },
+  {
+   "path": "assets/tarot/tarot-card-map.csv",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/tokens/design-tokens.json",
+   "size_kb": 2.4,
+   "dimensions": ""
+  },
+  {
+   "path": "assets/tokens/tokens.css",
+   "size_kb": 1.2,
+   "dimensions": ""
+  }
+ ]
+}

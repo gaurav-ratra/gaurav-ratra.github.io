@@ -1,0 +1,602 @@
+{
+ "viewBox": "0 0 100 100",
+ "count": 119,
+ "note": "Filled outlines traced from the supplied icon sheet. Use fill=currentColor.",
+ "icons": [
+  {
+   "index": 0,
+   "name": "home",
+   "file": "svg/000-home.svg"
+  },
+  {
+   "index": 1,
+   "name": "sparkle",
+   "file": "svg/001-sparkle.svg"
+  },
+  {
+   "index": 2,
+   "name": "kundali-lattice",
+   "file": "svg/002-kundali-lattice.svg"
+  },
+  {
+   "index": 3,
+   "name": "sunrise",
+   "file": "svg/003-sunrise.svg"
+  },
+  {
+   "index": 4,
+   "name": "crystal-ball",
+   "file": "svg/004-crystal-ball.svg"
+  },
+  {
+   "index": 5,
+   "name": "compass-nesw",
+   "file": "svg/005-compass-nesw.svg"
+  },
+  {
+   "index": 6,
+   "name": "tarot-cards",
+   "file": "svg/006-tarot-cards.svg"
+  },
+  {
+   "index": 7,
+   "name": "mortar-pestle",
+   "file": "svg/007-mortar-pestle.svg"
+  },
+  {
+   "index": 8,
+   "name": "calendar-om",
+   "file": "svg/008-calendar-om.svg"
+  },
+  {
+   "index": 9,
+   "name": "calendar-clock",
+   "file": "svg/009-calendar-clock.svg"
+  },
+  {
+   "index": 10,
+   "name": "om",
+   "file": "svg/010-om.svg"
+  },
+  {
+   "index": 11,
+   "name": "temple-glyph",
+   "file": "svg/011-temple-glyph.svg"
+  },
+  {
+   "index": 12,
+   "name": "gem",
+   "file": "svg/012-gem.svg"
+  },
+  {
+   "index": 13,
+   "name": "mind-bloom",
+   "file": "svg/013-mind-bloom.svg"
+  },
+  {
+   "index": 14,
+   "name": "serpent",
+   "file": "svg/014-serpent.svg"
+  },
+  {
+   "index": 15,
+   "name": "saturn-ring",
+   "file": "svg/015-saturn-ring.svg"
+  },
+  {
+   "index": 16,
+   "name": "people",
+   "file": "svg/016-people.svg"
+  },
+  {
+   "index": 17,
+   "name": "mars-male",
+   "file": "svg/017-mars-male.svg"
+  },
+  {
+   "index": 18,
+   "name": "heart",
+   "file": "svg/018-heart.svg"
+  },
+  {
+   "index": 19,
+   "name": "orbit",
+   "file": "svg/019-orbit.svg"
+  },
+  {
+   "index": 20,
+   "name": "hourglass",
+   "file": "svg/020-hourglass.svg"
+  },
+  {
+   "index": 21,
+   "name": "saturn-ring-alt",
+   "file": "svg/021-saturn-ring-alt.svg"
+  },
+  {
+   "index": 22,
+   "name": "sparkles",
+   "file": "svg/022-sparkles.svg"
+  },
+  {
+   "index": 23,
+   "name": "sprout-bowl",
+   "file": "svg/023-sprout-bowl.svg"
+  },
+  {
+   "index": 24,
+   "name": "diya",
+   "file": "svg/024-diya.svg"
+  },
+  {
+   "index": 25,
+   "name": "document",
+   "file": "svg/025-document.svg"
+  },
+  {
+   "index": 26,
+   "name": "open-book",
+   "file": "svg/026-open-book.svg"
+  },
+  {
+   "index": 27,
+   "name": "headset",
+   "file": "svg/027-headset.svg"
+  },
+  {
+   "index": 28,
+   "name": "chat-bubbles",
+   "file": "svg/028-chat-bubbles.svg"
+  },
+  {
+   "index": 29,
+   "name": "aries",
+   "file": "svg/029-aries.svg"
+  },
+  {
+   "index": 30,
+   "name": "taurus",
+   "file": "svg/030-taurus.svg"
+  },
+  {
+   "index": 31,
+   "name": "gemini",
+   "file": "svg/031-gemini.svg"
+  },
+  {
+   "index": 32,
+   "name": "cancer",
+   "file": "svg/032-cancer.svg"
+  },
+  {
+   "index": 33,
+   "name": "leo",
+   "file": "svg/033-leo.svg"
+  },
+  {
+   "index": 34,
+   "name": "virgo",
+   "file": "svg/034-virgo.svg"
+  },
+  {
+   "index": 35,
+   "name": "libra",
+   "file": "svg/035-libra.svg"
+  },
+  {
+   "index": 36,
+   "name": "scorpio",
+   "file": "svg/036-scorpio.svg"
+  },
+  {
+   "index": 37,
+   "name": "sagittarius",
+   "file": "svg/037-sagittarius.svg"
+  },
+  {
+   "index": 38,
+   "name": "capricorn",
+   "file": "svg/038-capricorn.svg"
+  },
+  {
+   "index": 39,
+   "name": "aquarius",
+   "file": "svg/039-aquarius.svg"
+  },
+  {
+   "index": 40,
+   "name": "pisces",
+   "file": "svg/040-pisces.svg"
+  },
+  {
+   "index": 41,
+   "name": "sun",
+   "file": "svg/041-sun.svg"
+  },
+  {
+   "index": 42,
+   "name": "moon",
+   "file": "svg/042-moon.svg"
+  },
+  {
+   "index": 43,
+   "name": "mercury",
+   "file": "svg/043-mercury.svg"
+  },
+  {
+   "index": 44,
+   "name": "venus",
+   "file": "svg/044-venus.svg"
+  },
+  {
+   "index": 45,
+   "name": "mars",
+   "file": "svg/045-mars.svg"
+  },
+  {
+   "index": 46,
+   "name": "jupiter",
+   "file": "svg/046-jupiter.svg"
+  },
+  {
+   "index": 47,
+   "name": "saturn",
+   "file": "svg/047-saturn.svg"
+  },
+  {
+   "index": 48,
+   "name": "uranus",
+   "file": "svg/048-uranus.svg"
+  },
+  {
+   "index": 49,
+   "name": "neptune",
+   "file": "svg/049-neptune.svg"
+  },
+  {
+   "index": 50,
+   "name": "pluto",
+   "file": "svg/050-pluto.svg"
+  },
+  {
+   "index": 51,
+   "name": "rahu",
+   "file": "svg/051-rahu.svg"
+  },
+  {
+   "index": 52,
+   "name": "ketu",
+   "file": "svg/052-ketu.svg"
+  },
+  {
+   "index": 53,
+   "name": "eclipse",
+   "file": "svg/053-eclipse.svg"
+  },
+  {
+   "index": 54,
+   "name": "constellation",
+   "file": "svg/054-constellation.svg"
+  },
+  {
+   "index": 55,
+   "name": "shooting-star",
+   "file": "svg/055-shooting-star.svg"
+  },
+  {
+   "index": 56,
+   "name": "galaxy",
+   "file": "svg/056-galaxy.svg"
+  },
+  {
+   "index": 57,
+   "name": "orbit-dots",
+   "file": "svg/057-orbit-dots.svg"
+  },
+  {
+   "index": 58,
+   "name": "star-four",
+   "file": "svg/058-star-four.svg"
+  },
+  {
+   "index": 59,
+   "name": "moon-star",
+   "file": "svg/059-moon-star.svg"
+  },
+  {
+   "index": 60,
+   "name": "search",
+   "file": "svg/060-search.svg"
+  },
+  {
+   "index": 61,
+   "name": "sliders",
+   "file": "svg/061-sliders.svg"
+  },
+  {
+   "index": 62,
+   "name": "sort-arrows",
+   "file": "svg/062-sort-arrows.svg"
+  },
+  {
+   "index": 63,
+   "name": "grid-four",
+   "file": "svg/063-grid-four.svg"
+  },
+  {
+   "index": 64,
+   "name": "compass",
+   "file": "svg/064-compass.svg"
+  },
+  {
+   "index": 65,
+   "name": "trend-up",
+   "file": "svg/065-trend-up.svg"
+  },
+  {
+   "index": 66,
+   "name": "bookmark",
+   "file": "svg/066-bookmark.svg"
+  },
+  {
+   "index": 67,
+   "name": "history",
+   "file": "svg/067-history.svg"
+  },
+  {
+   "index": 68,
+   "name": "download",
+   "file": "svg/068-download.svg"
+  },
+  {
+   "index": 69,
+   "name": "share",
+   "file": "svg/069-share.svg"
+  },
+  {
+   "index": 70,
+   "name": "bell",
+   "file": "svg/070-bell.svg"
+  },
+  {
+   "index": 71,
+   "name": "gear",
+   "file": "svg/071-gear.svg"
+  },
+  {
+   "index": 72,
+   "name": "user",
+   "file": "svg/072-user.svg"
+  },
+  {
+   "index": 73,
+   "name": "pencil",
+   "file": "svg/073-pencil.svg"
+  },
+  {
+   "index": 74,
+   "name": "shield-check",
+   "file": "svg/074-shield-check.svg"
+  },
+  {
+   "index": 75,
+   "name": "crown",
+   "file": "svg/075-crown.svg"
+  },
+  {
+   "index": 76,
+   "name": "signal-bars",
+   "file": "svg/076-signal-bars.svg"
+  },
+  {
+   "index": 77,
+   "name": "cube",
+   "file": "svg/077-cube.svg"
+  },
+  {
+   "index": 78,
+   "name": "wallet",
+   "file": "svg/078-wallet.svg"
+  },
+  {
+   "index": 79,
+   "name": "layers",
+   "file": "svg/079-layers.svg"
+  },
+  {
+   "index": 80,
+   "name": "devices",
+   "file": "svg/080-devices.svg"
+  },
+  {
+   "index": 81,
+   "name": "help-circle",
+   "file": "svg/081-help-circle.svg"
+  },
+  {
+   "index": 82,
+   "name": "logout",
+   "file": "svg/082-logout.svg"
+  },
+  {
+   "index": 83,
+   "name": "image",
+   "file": "svg/083-image.svg"
+  },
+  {
+   "index": 84,
+   "name": "play",
+   "file": "svg/084-play.svg"
+  },
+  {
+   "index": 85,
+   "name": "waveform",
+   "file": "svg/085-waveform.svg"
+  },
+  {
+   "index": 86,
+   "name": "note",
+   "file": "svg/086-note.svg"
+  },
+  {
+   "index": 87,
+   "name": "link",
+   "file": "svg/087-link.svg"
+  },
+  {
+   "index": 88,
+   "name": "loading",
+   "file": "svg/088-loading.svg"
+  },
+  {
+   "index": 89,
+   "name": "check-circle",
+   "file": "svg/089-check-circle.svg"
+  },
+  {
+   "index": 90,
+   "name": "x-circle",
+   "file": "svg/090-x-circle.svg"
+  },
+  {
+   "index": 91,
+   "name": "warning",
+   "file": "svg/091-warning.svg"
+  },
+  {
+   "index": 92,
+   "name": "info",
+   "file": "svg/092-info.svg"
+  },
+  {
+   "index": 93,
+   "name": "inbox",
+   "file": "svg/093-inbox.svg"
+  },
+  {
+   "index": 94,
+   "name": "wifi-off",
+   "file": "svg/094-wifi-off.svg"
+  },
+  {
+   "index": 95,
+   "name": "circle",
+   "file": "svg/095-circle.svg"
+  },
+  {
+   "index": 96,
+   "name": "check-filled",
+   "file": "svg/096-check-filled.svg"
+  },
+  {
+   "index": 97,
+   "name": "square",
+   "file": "svg/097-square.svg"
+  },
+  {
+   "index": 98,
+   "name": "check-square",
+   "file": "svg/098-check-square.svg"
+  },
+  {
+   "index": 99,
+   "name": "toggle-off",
+   "file": "svg/099-toggle-off.svg"
+  },
+  {
+   "index": 100,
+   "name": "toggle-on",
+   "file": "svg/100-toggle-on.svg"
+  },
+  {
+   "index": 101,
+   "name": "plus",
+   "file": "svg/101-plus.svg"
+  },
+  {
+   "index": 102,
+   "name": "minus",
+   "file": "svg/102-minus.svg"
+  },
+  {
+   "index": 103,
+   "name": "trash",
+   "file": "svg/103-trash.svg"
+  },
+  {
+   "index": 104,
+   "name": "copy",
+   "file": "svg/104-copy.svg"
+  },
+  {
+   "index": 105,
+   "name": "refresh",
+   "file": "svg/105-refresh.svg"
+  },
+  {
+   "index": 106,
+   "name": "refresh-alt",
+   "file": "svg/106-refresh-alt.svg"
+  },
+  {
+   "index": 107,
+   "name": "upload",
+   "file": "svg/107-upload.svg"
+  },
+  {
+   "index": 108,
+   "name": "download-alt",
+   "file": "svg/108-download-alt.svg"
+  },
+  {
+   "index": 109,
+   "name": "calendar-plus",
+   "file": "svg/109-calendar-plus.svg"
+  },
+  {
+   "index": 110,
+   "name": "star",
+   "file": "svg/110-star.svg"
+  },
+  {
+   "index": 111,
+   "name": "star-filled",
+   "file": "svg/111-star-filled.svg"
+  },
+  {
+   "index": 112,
+   "name": "signal-bars-alt",
+   "file": "svg/112-signal-bars-alt.svg"
+  },
+  {
+   "index": 113,
+   "name": "pie",
+   "file": "svg/113-pie.svg"
+  },
+  {
+   "index": 114,
+   "name": "calendar",
+   "file": "svg/114-calendar.svg"
+  },
+  {
+   "index": 115,
+   "name": "list",
+   "file": "svg/115-list.svg"
+  },
+  {
+   "index": 116,
+   "name": "grid-four-alt",
+   "file": "svg/116-grid-four-alt.svg"
+  },
+  {
+   "index": 117,
+   "name": "more",
+   "file": "svg/117-more.svg"
+  },
+  {
+   "index": 118,
+   "name": "filter",
+   "file": "svg/118-filter.svg"
+  }
+ ]
+}

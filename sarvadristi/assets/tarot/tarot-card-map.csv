@@ -1,0 +1,23 @@
+app_index,card,file,source_file_in_zip,note
+0,The Fool,assets/tarot/00-the-fool.jpg,a_richly_detailed_tarot_card_in_the_same_neon_purp.jpg,
+1,The Magician,assets/tarot/01-the-magician.jpg,a_richly_detailed_tarot_card_resembling_the_previo.jpg,Roman numeral I is correct; the purple-neon Magician in the zip is numbered II
+2,The High Priestess,assets/tarot/02-the-high-priestess.jpg,a_highly_detailed_cinematic_tarot_card_ornate_go.jpg,Numeral II is correct; the purple-neon version is numbered III
+3,The Empress,assets/tarot/03-the-empress.jpg,a_richly_detailed_tarot_card_illustration_vertica.jpg,Numeral III is correct; the purple-neon version is numbered IV
+4,The Emperor,assets/tarot/04-the-emperor.jpg,a_stylized_tarot_card_in_the_same_neon_glow_vecto.jpg,
+5,The Hierophant,assets/tarot/05-the-hierophant.jpg,a_matching_tarot_style_illustration_in_the_same_ne.jpg,
+6,The Lovers,assets/tarot/06-the-lovers.jpg,a_stylized_tarot_card_in_the_same_neon_purple_pin.jpg,
+7,The Chariot,assets/tarot/07-the-chariot.jpg,a_detailed_neon_cosmic_tarot_card_in_the_same_glow.jpg,
+8,Strength,assets/tarot/08-strength.jpg,a_detailed_tarot_card_in_the_same_glowing_neon_pur.jpg,
+9,The Hermit,assets/tarot/09-the-hermit.jpg,a_detailed_tarot_card_illustration_in_the_same_pur.jpg,
+10,Wheel of Fortune,assets/tarot/10-wheel-of-fortune.jpg,a_highly_stylized_tarot_card_in_the_same_neon_purp.jpg,
+11,Justice,assets/tarot/11-justice.jpg,a_detailed_highly_stylized_neon_purple_gold_tarot.jpg,
+12,The Hanged Man,assets/tarot/12-the-hanged-man.jpg,a_highly_detailed_neon_glow_tarot_card_in_the_same.jpg,
+13,Death,assets/tarot/13-death.jpg,a_detailed_tarot_card_style_illustration_a_vertic.jpg,Only Death card in the zip (gold-border style)
+14,Temperance,assets/tarot/14-temperance.jpg,a_highly_detailed_neon_glow_tarot_card_in_purple_a.jpg,
+15,The Devil,assets/tarot/15-the-devil.jpg,a_detailed_tarot_card_a_highly_stylized_glowing_n.jpg,
+16,The Tower,assets/tarot/16-the-tower.jpg,a_detailed_tarot_card_style_illustration_in_neon_p.jpg,
+17,The Star,assets/tarot/17-the-star.jpg,a_highly_stylized_neon_glow_tarot_card_illustratio.jpg,
+18,The Moon,assets/tarot/18-the-moon.jpg,a_detailed_tarot_style_illustration_a_luminous_ce.jpg,
+19,The Sun,assets/tarot/19-the-sun.jpg,a_vibrant_neon_glow_tarot_card_in_detailed_illustr.jpg,
+20,Judgement,assets/tarot/20-judgement.jpg,a_vibrant_neon_glow_tarot_card_in_purple_and_gold.jpg,
+21,The World,assets/tarot/21-the-world.jpg,a_highly_detailed_tarot_card_illustration_in_vibra.jpg,
